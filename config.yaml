@@ -3,7 +3,6 @@ baseUrl: "https://proshantasamajpoti.github.io/"
 title: "Proshanta Samajpoti"
 theme: "anubis"
 paginate: 10
-disqusShortname: "proshantasamajpoti"
 googleAnalytics: "G-12345"
 enableRobotsTXT: true
 
@@ -16,7 +15,7 @@ menu:
     weight: 0
 
 params:
-  author: "John Doe"
+  author: "Proshanta Samajpoti"
   email: mail@example.org # used for microformats
   avatar: "/images/me.png" # used for microformats
   description: ""
