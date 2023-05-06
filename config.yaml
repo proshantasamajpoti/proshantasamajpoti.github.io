@@ -3,7 +3,7 @@ baseUrl: "https://proshantasamajpoti.github.io/"
 title: "Proshanta Samajpoti"
 theme: "anubis"
 paginate: 10
-disqusShortname: "yourdiscussshortname"
+disqusShortname: "proshantasamajpoti"
 googleAnalytics: "G-12345"
 enableRobotsTXT: true
 
