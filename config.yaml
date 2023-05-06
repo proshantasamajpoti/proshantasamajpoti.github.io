@@ -6,7 +6,6 @@ paginate: 10
 disqusShortname: "yourdiscussshortname"
 googleAnalytics: "G-12345"
 enableRobotsTXT: true
-publishDir: docs
 
 menu:
   main:
