@@ -77,3 +77,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true # enable raw HTML in Markdown
+
