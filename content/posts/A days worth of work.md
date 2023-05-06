@@ -1,0 +1,8 @@
+---
+title: "A days worth of work"
+date: 2023-05-06T23:48:49+06:00
+draft: false
+---
+# A days worth of work
+
+Hello World! I spent my whole day to write these few lines and share them with you. Building your blog for free is hard. Building your blog for free, but with total control on it, is much harder. And I don't know yet how hard the writing going to be! Managing the technical stuffs is expected to be done once or twice, but writing new contents have to consistent. After tackling with coding jargons all day and not knowing what is what, I am pretty proud with the work I have done. At least, I can write and post something. At first, I decided to go with Jekyll. But, I couldn't find any theme that made me content. With Hugo, "Anubis" caught my eye at once. It seemed very minimal. Also with the help of YouTube, I came to a conclusion that importing new themes in Hugo static site is pretty easy. It seems to have more feature too, than the Jekyll themes. I hope to learn more about these things. And if I can log this journey here, that would be pretty cool.
